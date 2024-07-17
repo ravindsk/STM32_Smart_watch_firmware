@@ -1,0 +1,5 @@
+../Src/spi.c:6:6:spi1_gpio_init	1
+../Src/spi.c:65:15:spi_init	3
+../Src/spi.c:106:15:spi_transmit	22
+../Src/spi.c:234:15:spi_receive	17
+../Src/spi.c:325:15:spi_transmit_receive	26

@@ -1,0 +1,4 @@
+../Src/max30102_lib.c:22:6:max30102_init	16	static
+../Src/max30102_lib.c:31:6:max30102_process	40	static
+../Src/max30102_lib.c:59:6:pa10_gpio_init	4	static
+../Src/max30102_lib.c:68:6:get_pa10_state	4	static

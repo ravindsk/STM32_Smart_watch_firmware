@@ -1,0 +1,4 @@
+../Src/pulse_ox_display.c:13:6:gc9a01_start	1
+../Src/pulse_ox_display.c:45:6:update_pulse_ox_heart_rate	1
+../Src/pulse_ox_display.c:53:6:update_pulse_ox_spo2	1
+../Src/pulse_ox_display.c:62:6:show_time	1

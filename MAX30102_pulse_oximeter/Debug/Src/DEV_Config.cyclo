@@ -1,0 +1,6 @@
+../Src/DEV_Config.c:42:6:DEV_Digital_Write	2
+../Src/DEV_Config.c:50:9:DEV_Digital_Read	2
+../Src/DEV_Config.c:57:6:DEV_delay_ms	1
+../Src/DEV_Config.c:63:6:DEV_SPI_WRite	1
+../Src/DEV_Config.c:68:5:DEV_Module_Init	1
+../Src/DEV_Config.c:76:6:DEV_Module_Exit	1

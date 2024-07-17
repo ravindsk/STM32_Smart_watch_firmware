@@ -1,0 +1,3 @@
+../Src/display_driver.c:16:6:gc9a01_display_init	1
+../Src/display_driver.c:23:6:gc9a01_ctrl_gpio_init	1
+../Src/display_driver.c:40:6:gc9a01_spi_init	1

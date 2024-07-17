@@ -1,0 +1,5 @@
+../Src/max30102.c:3:6:max30102_write_reg	24	static
+../Src/max30102.c:9:6:max30102_read_reg	24	static
+../Src/max30102.c:14:6:max30102_params_init	8	static
+../Src/max30102.c:58:6:max30102_read_fifo	40	static
+../Src/max30102.c:105:6:max30102_reset	8	static
